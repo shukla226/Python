@@ -1,5 +1,5 @@
 ## Kadane's Algorithm O(n)
-import sys
+
 def checking_max_subarray_sum(arr):
     current_max=arr[0]
     max_so_far=arr[0]
